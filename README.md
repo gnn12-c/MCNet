@@ -4,8 +4,7 @@
 [![Framework](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17732306.svg)](https://doi.org/10.5281/zenodo.17732306)
 
-> **NOTICE:** This is the official implementation of the manuscript **"Efficient Cerebrovascular Segmentation via Parallel CNN-Mamba Architecture"**, which is currently **under revision** for publication in *The Visual Computer*. (This repository currently contains only the core model architecture. The complete codebase will be released upon the paper's acceptance.)
-
+> **NOTICE:** This is the official implementation of the manuscript **"Efficient Cerebrovascular Segmentation via Parallel CNN-Mamba Architecture"**
 ## 📖 Introduction
 
 Accurate segmentation of cerebrovascular structures from 3D Magnetic Resonance Angiography (MRA) is crucial for Computer-Aided Diagnosis (CAD). In this work, we propose **MCNet**, a compact hybrid architecture that integrates:
